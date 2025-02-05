@@ -1,7 +1,6 @@
 # Frans Memory
 
-Deze woorden komen uit woordenlijst:
-> Libre Service Junior 2VWO boek A unité 3 appr. 2
+> Deze woorden komen uit woordenlijst: <i>Libre Service Junior 2VWO boek A unité 3 appr. 2</i>
 
 <b>Gebruiksaanwijzing:</b>
 1. Download de repository.
