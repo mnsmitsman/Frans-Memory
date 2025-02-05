@@ -12,7 +12,7 @@
 
 <b>Spelregels:</b>
 1. <i>Voorbereiding:</i>
-Schud de kaarten en leg ze met de afbeelding naar beneden in een raster.
+Vul je naam in.
 2. <i>Spelbeurt:</i>
 Een speler draait twee kaarten om.
 Zijn de kaarten gelijk? De speler houdt het paar en mag nog een keer.
