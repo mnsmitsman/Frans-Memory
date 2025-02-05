@@ -3,11 +3,11 @@
 > Deze woorden komen uit woordenlijst: <i>Libre Service Junior 2VWO boek A unité 3 appr. 2</i>
 
 <b>Gebruiksaanwijzing:</b>
-1. Download de repository.
-     a. Klik op de groene <b></> Code</b> knop.
-     b. Klik op 'Download ZIP'.
-     c. Pak de ZIP map uit in je Downloads.
-     d. Open het <b>index.html</b> bestand.
+1. Download de repository. <br>
+     a. Klik op de groene <b></> Code</b> knop. <br>
+     b. Klik op 'Download ZIP'. <br>
+     c. Pak de ZIP map uit in je Downloads. <br>
+     d. Open het <b>index.html</b> bestand.<br>
 2. Speel het spel!
 
 <b>Spelregels:</b>
