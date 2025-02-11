@@ -25,4 +25,4 @@ Veel speelplezier! 🎴
 
 <b>Screenshots:</b>
 
-<a href="#"><img src=https://www.gomarus.nl/images/logo-50jaar.png width="80" align="center"/></a>
+<a href="#"><img src=https://www.gomarus.nl/images/logo-50jaar.png width="1000" align="center"/></a>
