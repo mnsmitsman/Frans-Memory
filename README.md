@@ -1,3 +1,5 @@
+<a href="#"><img src=https://www.gomarus.nl/images/logo-50jaar.png width="500" align="center"/></a>
+
 # Frans Memory
 
 > Deze woorden komen uit woordenlijst: <i>Libre Service Junior 2VWO boek A unité 3 appr. 2</i>
@@ -22,7 +24,3 @@ Het spel eindigt als alle paren gevonden zijn.
 De speler met de meeste paren wint.
 
 Veel speelplezier! 🎴
-
-<b>Screenshots:</b>
-
-<a href="#"><img src=https://www.gomarus.nl/images/logo-50jaar.png width="1000" align="center"/></a>
