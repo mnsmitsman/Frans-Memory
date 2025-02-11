@@ -12,7 +12,7 @@
 
 <b>Spelregels:</b>
 1. <i>Voorbereiding:</i>
-Vul je naam in.
+Start het spel.
 2. <i>Spelbeurt:</i>
 Een speler draait twee kaarten om.
 Zijn de kaarten gelijk? De speler houdt het paar en mag nog een keer.
@@ -22,3 +22,7 @@ Het spel eindigt als alle paren gevonden zijn.
 De speler met de meeste paren wint.
 
 Veel speelplezier! 🎴
+
+<b>Screenshots:</b>
+
+<a href="#"><img src=https://www.gomarus.nl/images/logo-50jaar.png width="80" align="center"/></a>
