@@ -1,4 +1,4 @@
-<a href="#"><img src=https://www.gomarus.nl/images/logo-50jaar.png width="500" align="center"/></a>
+<a href="#"><img src=https://www.gomarus.nl/images/logo-50jaar.png width="300" align="center"/></a>
 
 # Frans Memory
 
